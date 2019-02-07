@@ -1,3 +1,4 @@
+Let's add some stuff!
 # mongo-func
 A functional approach to MongoDB
 
@@ -24,7 +25,7 @@ Providing a functional library to common MongoDB functions:
 * [remove](#remove)
 * [dropCollection](#dropCollection)
 
-All functions are curried by default therefore the functions aren't applied until the final parameter is provided. This allows you to create small, composable functions that are easy to test. 
+All functions are curried by default therefore the functions aren't applied until the final parameter is provided. This allows you to create small, composable functions that are easy to test.
 
 Each function also returns a promise with the result.
 ## Usage
